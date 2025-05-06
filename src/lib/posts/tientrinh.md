@@ -9,6 +9,7 @@ excerpt: Phân tích hiệu năng máy tính cá nhân, nghiên cứu bài toán
 ---
 
 ## 1. Kiểm tra CPU, GPU, RAM – Hiệu năng máy tính
+![alt text](</images/Ảnh chụp Màn hình 2025-05-06 lúc 17.50.32.png>)
 
 **Thiết bị:** MacBook sử dụng chip **Apple M1**
 
