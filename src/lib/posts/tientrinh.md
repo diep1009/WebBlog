@@ -45,7 +45,7 @@ excerpt: Phân tích hiệu năng máy tính cá nhân, nghiên cứu bài toán
 
 ## 3. Khi nào dùng Thread? Khi nào dùng Process?
 
-[text](../../../static/images/IMG_7722.HEIC)
+![text](/images/IMG_7722.HEIC)
 
 ---
 
