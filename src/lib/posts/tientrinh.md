@@ -45,16 +45,7 @@ excerpt: Phân tích hiệu năng máy tính cá nhân, nghiên cứu bài toán
 
 ## 3. Khi nào dùng Thread? Khi nào dùng Process?
 
-_Viết bảng tay, ví dụ như sau:_
-
-| Tiêu chí            | Thread                             | Process                              | Cả hai                                    |
-|---------------------|-------------------------------------|---------------------------------------|-------------------------------------------|
-| Chia sẻ bộ nhớ      | ✔ Dễ chia sẻ                       | ✖ Khó chia sẻ                         | ✖                                         |
-| Cách ly lỗi         | ✖ Ảnh hưởng toàn tiến trình        | ✔ An toàn, không ảnh hưởng lẫn nhau  | ✔ Tùy theo thiết kế hệ thống              |
-| Tác vụ nặng độc lập | ✖ Không lý tưởng                   | ✔ Tốt cho task CPU-intensive          | ✔ Web server worker + thread xử lý I/O    |
-| Ví dụ               | Chat App, Game Engine              | Chrome tab, Compiler, VM              | Web server, AI training, Data pipeline    |
-
-📸 **Ghi chú:** Viết tay bảng này và chụp ảnh đưa vào báo cáo hoặc blog để minh họa trực quan.
+[text](../../../static/images/IMG_7722.HEIC)
 
 ---
 
@@ -79,3 +70,4 @@ _Viết bảng tay, ví dụ như sau:_
 
 ✅ **Kết luận:** Hiểu rõ luồng, tiến trình và kiến trúc hệ thống phân tán giúp chúng ta thiết kế các ứng dụng hiệu quả hơn, tận dụng tối đa tài nguyên máy tính.
 
+ 

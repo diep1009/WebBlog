@@ -8,7 +8,7 @@ categories:
 coverImage: "/images/1.jpg"
 coverWidth: 16
 coverHeight: 9
-excerpt: Check out how heading links work with this starter in this post.
+excerpt: Đây là bài viết về hệ thống phân tán
 ---
 
 ## 1. Hệ thống phân tán là gì?
